@@ -1,0 +1,17 @@
+id,paciente_id,cidade,estado,bairro,rua,numero,cep
+1,1,"São Paulo",SP,Centro,"Rua Augusta",100,01000000
+2,2,"São Paulo",SP,Mooca,"Rua da Mooca",200,03100000
+3,3,Campinas,SP,Cambuí,"Rua Barreto Leme",300,13000000
+4,4,"Rio de Janeiro",RJ,Copacabana,"Av. Atlântica",400,22000000
+5,5,"Belo Horizonte",MG,Savassi,"Rua Pernambuco",500,30130000
+6,6,Curitiba,PR,Centro,"Rua XV de Novembro",600,80020000
+7,7,"Porto Alegre",RS,Moinhos,"Rua Padre Chagas",700,90570000
+8,8,Salvador,BA,Barra,"Av. Oceânica",800,40140000
+9,9,"São Paulo",SP,Centro,"Rua A",100,01001000
+10,10,"São Paulo",SP,Moema,"Rua B",210,01002000
+11,11,Campinas,SP,Taquaral,"Rua C",45,13010000
+12,12,"Rio de Janeiro",RJ,Copacabana,"Rua D",300,22010000
+13,13,"Belo Horizonte",MG,Savassi,"Rua E",80,30120000
+14,14,Curitiba,PR,Centro,"Rua F",120,80010000
+15,15,"Porto Alegre",RS,Moinhos,"Rua G",55,90010000
+16,16,Salvador,BA,Barra,"Rua H",77,40010000

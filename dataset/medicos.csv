@@ -1,0 +1,10 @@
+id,nome,cpf,data_nascimento,sexo,especialidade,email
+1,"Dr. João Silva",32165498700,1975-05-10,masculino,Cardiologia,joao.cardio@email.com
+2,"Dra. Fernanda Rocha",65498732111,1980-03-18,feminino,Dermatologia,fernanda.derma@email.com
+3,"Dr. Marcos Oliveira",14725836999,1983-08-22,masculino,Ortopedia,marcos.orto@email.com
+4,"Dra. Camila Torres",25836914755,1990-12-14,feminino,"Clínico Geral",camila.clinico@email.com
+5,"Dr. Ricardo Alves",12345678901,1980-05-12,masculino,Cardiologia,ricardo@clinica.com
+6,"Dra. Fernanda Lima",12345678902,1985-09-20,feminino,Dermatologia,fernanda@clinica.com
+7,"Dr. Gustavo Rocha",12345678903,1978-03-15,masculino,Ortopedia,gustavo@clinica.com
+8,"Dra. Camila Duarte",12345678904,1990-11-08,feminino,Pediatria,camila@clinica.com
+9,"Dr. Marcelo Nunes",12345678905,1982-06-22,masculino,Neurologia,marcelo@clinica.com

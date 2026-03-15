@@ -1,0 +1,17 @@
+id,nome,cpf,data_nascimento,sexo,email
+1,"Ricardo Anthony",12345678909,1996-03-15,masculino,ricardo.anthony@email.com
+2,"Livia Graciani",98765432100,1998-07-22,feminino,livia.graciani@email.com
+3,"Luciana Yamaguchi",74185296320,1994-11-03,feminino,luciana.y@email.com
+4,"Luiza Carvalho",36925814711,1999-01-19,feminino,luiza.carvalho@email.com
+5,"Matheus Garcia",85274196344,1995-09-12,masculino,matheus.garcia@email.com
+6,"Guilherme Patez",15935748622,1997-05-28,masculino,guilherme.p@email.com
+7,"Kaiqui Azevedo",95175385266,2000-02-10,masculino,kaiqui.azevedo@email.com
+8,"Gabriel Santos",75315945688,1998-12-05,masculino,gabriel.santos@email.com
+9,"Lucas Martins",11111111101,1995-04-10,masculino,lucas@email.com
+10,"Juliana Ferreira",11111111102,1992-08-22,feminino,juliana@email.com
+11,"Rafael Gomes",11111111103,1988-02-14,masculino,rafael@email.com
+12,"Patricia Souza",11111111104,1991-07-30,feminino,patricia@email.com
+13,"Bruno Carvalho",11111111105,1985-12-05,masculino,bruno@email.com
+14,"Mariana Araujo",11111111106,1996-01-19,feminino,mariana@email.com
+15,"Felipe Ribeiro",11111111107,1993-09-10,masculino,felipe@email.com
+16,"Amanda Teixeira",11111111108,1998-06-25,feminino,amanda@email.com
